@@ -12,9 +12,9 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 ## Rules
 
-1.
-2.
-3.
+1. Specify the lines that you changed
+2. Require a +1 before finalizing
+3. Title commit changes accurately
 
 ---
 
